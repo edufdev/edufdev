@@ -4,10 +4,10 @@ Hi 👋 My name is Oscar Eduardo Fuentes
 Backend developer with Python and Django
 ----------------------------------------
 
-I am a backend web developer with Python and Django to build secure and scalable applications. 🧑‍💻🤖 
-I have more than 1 year and 6 months of programming experience, I have knowledge in databases, Linux and agile methodologies. 💻 
-I am analytical, self-taught, I have developed my emotional intelligence and my creativity.🎯 
-I have had the opportunity to learn from spectacular people who are native speakers of other languages. 📈 
+I am a backend web developer with Python and Django to build secure and scalable applications. I have more than 1 year and 6 months of programming experience, I have knowledge in databases, Linux and agile methodologies.🧑‍💻🤖💻
+
+I am analytical, self-taught, I have developed my emotional intelligence and my creativity.
+I have had the opportunity to learn from spectacular people who are native speakers of other languages.📈🎯
 > English B2 | Spanish C2 | Portuguese A2 | Italian A2
 
 *   🌍  I'm based in Guatemala
