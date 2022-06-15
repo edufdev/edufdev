@@ -51,7 +51,7 @@ I have had the opportunity to learn from spectacular people who are native speak
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="[https://github.com/edufdev/App_encuestas_C]https://github.com/edufdev/App_encuestas_C" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edufdev&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edufdev/Python_intermediate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edufdev&repo=Python_intermediate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="[https://github.com/edufdev/Python]https://github.com/edufdev/Python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edufdev&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/edufdev/Python_intermediate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edufdev&repo=Python_intermediate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
