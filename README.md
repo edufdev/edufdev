@@ -1,16 +1,18 @@
 Hi 👋 My name is Oscar Eduardo Fuentes
 ======================================
 
-Backend developer with Python and Django
+Data engineer specialized in Python.
 ----------------------------------------
 
-I am a backend web developer with Python and Django to build secure and scalable applications. I have more than one year and six months of programming experience, and I know databases, Linux, and agile methodologies.🧑💻🤖💻. I am analytical and self-taught, and I improve my emotional intelligence and creativity. I have had the opportunity to learn from spectacular people who are native speakers of other languages.📈🎯
+I am a highly skilled Data Engineer with experience in developing robust and scalable applications using Python and several of its libraries and frameworks. I focus on creating secure and efficient solutions for data processing and analysis. I have deep knowledge in databases, Linux systems and agile methodologies. My analytical approach and passion for problem solving allow me to tackle complex challenges effectively. In addition, I strive to constantly improve my emotional intelligence and enhance my creativity in the field of data engineering.
+
+My experience in implementing ETL processes, designing scalable data architectures and using visualization tools has allowed me to drive strategic decision making and provide quality information to companies. As a data engineer, I am committed to technical excellence and continuous improvement. I feel fortunate to have collaborated with talented professionals and learned from their unique perspectives and experiences. I am always looking for new opportunities to grow, innovate and contribute to business success through the power of data.
+
+Let's build the future of data analytics together! 💡🧑💻📊
 
 * 🌍  I'm based in Guatemala
-* 🖥️  See my portfolio at [edufdev.xyz](http://edufdev.xyz)
 * ✉️  You can contact me at [ofuentesm4@gmail.com](mailto:ofuentesm4@gmail.com)
-* 🚀  I'm currently working on [Survey application](http://https://github.com/edufdev)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning artificial intelligence
 * 🤝  I'm open to collaborating on projects using Python as core technology, any of its main frameworks, working with APIs and developing data-driven applications.
 * ⚡  I am learning and improving my English with the help of apps and conversations with other people.
 
